@@ -8,4 +8,4 @@ def count_empty_strings(array)
 end
 
 array_2 = ["", 4, "", "goodbye",""]
-count_empty_strings
+count_empty_strings(array_2)
